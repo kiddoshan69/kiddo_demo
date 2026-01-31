@@ -1,2 +1,3 @@
 # kiddo_demo
-This is my Frist Git Repository
+This is my frist Git Repository
+Author-Shan
